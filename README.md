@@ -1,4 +1,7 @@
 ## End to End ML project
+
+## Problem statement: Predict the price of the diamond based on the features
+
 ### Created an Environment
 ```
 conda create -p env python==3.8
