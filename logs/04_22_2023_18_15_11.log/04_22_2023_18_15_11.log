@@ -1,0 +1,3 @@
+[ 2023-04-22 18:15:11,930 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2023-04-22 18:15:14,128 ] 21 root - INFO - Data ingestion method starts
+[ 2023-04-22 18:15:14,133 ] 41 root - INFO - Exception occured at Data Ingestion Stage

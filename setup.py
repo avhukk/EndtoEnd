@@ -11,7 +11,7 @@ def get_requirements(file_path:str)->List[str]:
     return requirements
 
 setup (
-    name = 'RegressorProject', 
+    name = 'src', 
     version = '0.0.1', 
     author = 'Abhishek', 
     author_email= 'avhukkerikar@gmail.com', 
