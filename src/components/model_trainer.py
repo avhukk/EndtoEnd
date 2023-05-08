@@ -29,8 +29,8 @@ class ModelTrainer:
             "LinearRegression": LinearRegression(), 
             "Lasso": Lasso(), 
             "Ridge": Ridge(),
-            "ElasticNet": ElasticNet()
-        }
+            "ElasticNet": ElasticNet()}
+            
             model_report:dict = evaluate_model(X_train, y_train, X_test, y_test, models)
             print(model_report)
             print("\n=========================================================================================")
